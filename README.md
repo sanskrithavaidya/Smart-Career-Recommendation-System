@@ -1,5 +1,9 @@
 # Smart Career Recommendation System
 
+## Preview
+
+![Home Page](screenshots/home.png)
+
 ## Overview
 A responsive career recommendation website that helps users explore suitable career paths based on their interests and skills.
 
